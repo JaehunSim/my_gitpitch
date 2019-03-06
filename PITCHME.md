@@ -1,7 +1,7 @@
 ---
 ## 36 Questions to get closer
 ---
-Set I
+# Set I
 ---
 1.Given the choice of anyone in the world, whom would you want as a dinner guest?
 ---
@@ -27,7 +27,7 @@ Set I
 ---
 12.If you could wake up tomorrow having gained any one quality or ability, what would it be?
 ---
-Set II
+# Set II
 ---
 13.If a crystal ball could tell you the truth about yourself, your life, the future or anything else, what would you want to know?
 ---
@@ -53,7 +53,7 @@ Set II
 ---
 24.How do you feel about your relationship with your mother?
 ---
-Set III
+# Set III
 ---
 25.Make three true “we” statements each. For instance, “We are both in this room feeling ... “
 ---
