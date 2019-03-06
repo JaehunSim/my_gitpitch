@@ -20,6 +20,7 @@ The Agenda
 @snap[south-west list-content-concise span-100]
 @ol[list-bullets-black](false)
 - Lorem ipsum dolor sit amet
+---
 - Consectetur adipiscing elit
 - Sed do eiusmod tempor
 - Ut enim ad minim veniam
