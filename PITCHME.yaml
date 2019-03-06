@@ -18,7 +18,7 @@ theme-override: css/PITCHME.css
 # [Global] Background Settings
 # Doc: https://gitpitch.com/docs/settings/background
 #
-#background : images/ssafy_bg.png
+#background : images/spring.jpg
 #background-opacity : 5
 #background-position : bottom
 #background-size : 100% 60%
@@ -40,15 +40,15 @@ layout : center
 # Twitter Card Settings
 # Doc: https://gitpitch.com/docs/settings/twitter-card
 #
-title : "SSAFY Go뇌 9반"
-description : "Easy Way to make Presentatin from Markdown Docuement."
+title : "36 questions to get close"
+description : "Let's get closer to each other."
 # thumbnail : assets/img/thumbnail.png
 
 #
 # Footnote Setting
 # Doc: https://gitpitch.com/docs/settings/footnote
 #
-footnote : "Samsung Software Academy For Youth"
+footnote : "36 questions JaehunSim"
 
 #
 # Published Setting
