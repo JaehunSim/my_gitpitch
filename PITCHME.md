@@ -8,7 +8,7 @@ The Agenda [ Step-by-Step ]
 @snap[south-west list-content-concise span-100]
 @ol
 - Lorem ipsum dolor sit amet
----
++++
 - Consectetur adipiscing elit
 - Sed do eiusmod tempor
 - Ut enim ad minim veniam
