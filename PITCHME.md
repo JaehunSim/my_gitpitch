@@ -3,11 +3,9 @@
 ---
 # Set I
 ---
-### 1.
-Given the choice of anyone in the world, whom would you want as a dinner guest?
+#### 1. Given the choice of anyone in the world, whom would you want as a dinner guest?
 ---
-### 2.
-Would you like to be famous? In what way?
+### 2. Would you like to be famous? In what way?
 ---
 3.Before making a telephone call, do you ever rehearse what you are going to say? Why?
 ---
