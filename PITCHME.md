@@ -1,6 +1,3 @@
-+++?image=template/img/spotlight.png&position=top right&size=20% auto
-@title[Title + List Fragments]
-
 @snap[north-west]
 The Agenda [ Step-by-Step ]
 @snapend
@@ -8,7 +5,8 @@ The Agenda [ Step-by-Step ]
 @snap[south-west list-content-concise span-100]
 @ol
 - Lorem ipsum dolor sit amet
-+++
+@olend
+@ol
 - Consectetur adipiscing elit
 - Sed do eiusmod tempor
 - Ut enim ad minim veniam
