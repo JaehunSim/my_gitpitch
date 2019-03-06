@@ -3,7 +3,9 @@
 ---
 ## Set I
 ---
+@snap[north span-100 headline]
 ### Set I
+@snapend
 #### 1. Given the choice of anyone in the world, whom would you want as a dinner guest?
 ---
 ### Set I
