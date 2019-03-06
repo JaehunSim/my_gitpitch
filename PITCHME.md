@@ -1,104 +1,81 @@
 ---
-## SSAFY-seoul 
-## 9반 Go뇌
+## 36 Questions to get closer
 ---
-### 팀원
-1. [김용민](https://gitpitch.com/joswoo/public#/3)
-2. [김경수](https://gitpitch.com/joswoo/public#/4)
-3. [심재훈](https://gitpitch.com/joswoo/public#/5)
-4. [이한솔](https://gitpitch.com/joswoo/public#/6)
-5. [조성우](https://gitpitch.com/joswoo/public#/7)
-6. [황유성](https://gitpitch.com/joswoo/public#/8)
+## Set I
 ---
-### 팀원 사진
-
-<img width="171" alt="default" src="https://user-images.githubusercontent.com/29402714/50469199-bd0b1f80-09ee-11e9-9b50-f256b6bd320f.jpg">
-<img width="171" alt="default" src="https://user-images.githubusercontent.com/29402714/50469184-b11f5d80-09ee-11e9-9f31-4c25796aa0b5.jpeg">
-<img width="171" alt="default" src="https://user-images.githubusercontent.com/29402714/50469214-c7c5b480-09ee-11e9-8a69-c990d56e1bb3.jpeg">
-
-
-<img width="171" alt="default" src="https://user-images.githubusercontent.com/29402714/50469224-cf855900-09ee-11e9-88ae-e2a3f3d40dde.jpeg">
-<img width="171" alt="default" src="https://user-images.githubusercontent.com/29402714/50469294-15422180-09ef-11e9-81a3-df108043875e.jpg">
-<img width="171" alt="default" src="https://user-images.githubusercontent.com/29402714/50469301-1e32f300-09ef-11e9-8a4f-3466263b5471.jpg">
-
-
+## 1. Given the choice of anyone in the world, whom would you want as a dinner guest?
 ---
-
-### 팀원 1.
-
-이름 : 김용민  
-별명 : 밥대장  
-성격 : 낙천적인 성격  
-연말 계획 : 천안에 내려가서 가족들과 시간을 보내고 내년을 맞이하는 심신 수련을 한다.  
-
-[팀원 목록](https://gitpitch.com/joswoo/public#/1)
-
+## 2. Would you like to be famous? In what way?
 ---
-
-### 팀원 2.
-
-이름 : 김경수  
-별명 : 엘메  
-성격 : 느긋한 성격  
-연말 계획 : 자취방 구하러 돌아다닐 예정  
-<div>
-<img width="171" alt="default" src="https://user-images.githubusercontent.com/29402714/50469184-b11f5d80-09ee-11e9-9f31-4c25796aa0b5.jpeg">
-</div>
-
-[팀원 목록](https://gitpitch.com/joswoo/public#/1)
-  
+## 3. Before making a telephone call, do you ever rehearse what you are going to say? Why?
 ---
-
-### 팀원 3.
-
-이름 : 심재훈  
-별명 : 타푸  
-성격 : 내성적이지만 친근한 성격  
-연말 계획: 스파크, 알고리즘 공부  
-<img width="171" alt="default" src="https://raw.githubusercontent.com/JaehunSim/JaehunSim.github.io/master/assets/images/tier.PNG" align="center">
-
-[팀원 목록](https://gitpitch.com/joswoo/public#/1)
-
+## 4. What would constitute a “perfect” day for you?
 ---
-
-### 팀원 4.
-
-이름 : 이한솔  
-별명 : 징징이  
-성격 : 소극적, 독립적  
-연말 계획 : LoL KeSPA CUP 2018 FINALS에 갈 예정 ^^!
-<div>
-<img src="https://user-images.githubusercontent.com/27047621/50469271-00fe2480-09ef-11e9-9a4e-6664d52ea2e0.PNG" alt="default" style="max-width:100%" align="center";>
-</div>
-
-[팀원 목록](https://gitpitch.com/joswoo/public#/1)
-
+## 5. When did you last sing to yourself? To someone else?
 ---
-
-### 팀원 5.
-
-<div>
-<img width="171" alt="default" src="https://user-images.githubusercontent.com/29402714/50469294-15422180-09ef-11e9-81a3-df108043875e.jpg">
-</div>  
-
-이름 : 조성우  
-별명 : 거북
-성격 : 꼼꼼하고 차분한 성격  
-연말 계획 : 자취방 이사 계획, 강원도 놀러갈 예정!!  
-
-[팀원 목록](https://gitpitch.com/joswoo/public#/1)
-
+## 6. If you were able to live to the age of 90 and retain either the mind or body of a 30-year-old for the last 60 years of your life, which would you want?
 ---
-
-### 팀원 6.
-
-이름 : 황유성  
-별명 : 홍철이  
-성격 : 긍정적  
-연말 계획 : 진주에 내려가서 친구들 만나 술이나 먹겠지  
-
-[팀원 목록](https://gitpitch.com/joswoo/public#/1)
-
+## 7. Do you have a secret hunch about how you will die?
 ---
-
-# 감사합니다.
+## 8. Name three things you and your partner appear to have in common.
+---
+## 9. For what in your life do you feel most grateful?
+---
+## 10. If you could change anything about the way you were raised, what would it be?
+---
+## 11. Take four minutes and tell your partner your life story in as much detail as possible.
+---
+## 12. If you could wake up tomorrow having gained any one quality or ability, what would it be?
+---
+## Set II
+---
+## 13. If a crystal ball could tell you the truth about yourself, your life, the future or anything else, what would you want to know?
+---
+## 14. Is there something that you’ve dreamed of doing for a long time? Why haven’t you done it?
+---
+## 15. What is the greatest accomplishment of your life?
+---
+## 16. What do you value most in a friendship?
+---
+## 17. What is your most treasured memory?
+---
+## 18. What is your most terrible memory?
+---
+## 19. If you knew that in one year you would die suddenly, would you change anything about the way you are now living? Why?
+---
+## 20. What does friendship mean to you?
+---
+## 21. What roles do love and affection play in your life?
+---
+## 22. Alternate sharing something you consider a positive characteristic of your partner. Share a total of five items.
+---
+## 23. How close and warm is your family? Do you feel your childhood was happier than most other people’s?
+---
+## 24. How do you feel about your relationship with your mother?
+---
+## Set III
+---
+## 25. Make three true “we” statements each. For instance, “We are both in this room feeling ... “
+---
+## 26. Complete this sentence: “I wish I had someone with whom I could share ... “
+---
+## 27. If you were going to become a close friend with your partner, please share what would be important for him or her to know.
+---
+## 28. Tell your partner what you like about them; be very honest this time, saying things that you might not say to someone you’ve just met.
+---
+## 29. Share with your partner an embarrassing moment in your life.
+---
+## 30. When did you last cry in front of another person? By yourself?
+---
+## 31. Tell your partner something that you like about them already.
+---
+## 32. What, if anything, is too serious to be joked about?
+---
+## 33. If you were to die this evening with no opportunity to communicate with anyone, what would you most regret not having told someone? Why haven’t you told them yet?
+---
+## 34. Your house, containing everything you own, catches fire. After saving your loved ones and pets, you have time to safely make a final dash to save any one item. What would it be? Why?
+---
+## 35. Of all the people in your family, whose death would you find most disturbing? Why?
+---
+## 36. Share a personal problem and ask your partner’s advice on how he or she might handle it. Also, ask your partner to reflect back to you how you seem to be feeling about the problem you have chosen.
+---
